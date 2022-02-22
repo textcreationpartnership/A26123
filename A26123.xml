@@ -1,0 +1,887 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An account of the treaty between His Excellency Benjamin Fletcher Captain General and Governour in Chief of the Province of New-York, &amp;c. and the Indians of the Five Nations viz. the Mohaques, Oneydes, Onnondages, Cajonges and Sennekes, at Albany, beginning the 15th of August 1694.</title>
+            <title>Treaties, etc. Iroquois Indians, 1694 Aug. 15</title>
+            <author>New York (State).</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 59 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26123</idno>
+            <idno type="STC">Wing A411</idno>
+            <idno type="STC">ESTC W16312</idno>
+            <idno type="EEBO-CITATION">12881578</idno>
+            <idno type="OCLC">ocm 12881578</idno>
+            <idno type="VID">94942</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26123)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94942)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1517:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An account of the treaty between His Excellency Benjamin Fletcher Captain General and Governour in Chief of the Province of New-York, &amp;c. and the Indians of the Five Nations viz. the Mohaques, Oneydes, Onnondages, Cajonges and Sennekes, at Albany, beginning the 15th of August 1694.</title>
+                  <title>Treaties, etc. Iroquois Indians, 1694 Aug. 15</title>
+                  <author>New York (State).</author>
+               </titleStmt>
+               <extent>39 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by William Bradford ...,</publisher>
+                  <pubPlace>New York, :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fletcher, Benjamin, 1640-1703.</term>
+               <term>Iroquois Indians --  Treaties, 1694.</term>
+               <term>Indians of North America --  New York (State) --  Treaties.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:94942:1"/>
+            <pb facs="tcp:94942:1"/>
+            <p>AN ACCOUNT OF THE TREATY BETWEEN <hi>His Excellency <hi>Benjamin Fletcher</hi>
+               </hi> Captain General and Go<g ref="char:EOLhyphen"/>vernour in Chief of the Province of <hi>New-York, &amp;c.</hi> AND THE INDIANS OF THE <hi>Five Nations, <hi>VIZ.</hi>
+               </hi> The <hi>Mohaques, Oneydes, Onnondages, Cajonges</hi> and <hi>Sennekes,</hi> at <hi>Albany,</hi> beginning the 15th of <hi>Auguſt,</hi> 1694.</p>
+            <p>
+               <hi>Printed &amp; Sold by</hi> William Bradford, <hi>Printer to Their Majeſties, King</hi> William <hi>and Queen</hi> Mary, <hi>at the Sign of the Bible in</hi> New-York, 1694.</p>
+            <pb facs="tcp:94942:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:94942:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="license">
+            <pb facs="tcp:94942:3"/>
+            <p>Liſenced,</p>
+            <closer>
+               <signed>
+                  <hi>David Iamiſon,</hi> Cl. Concilij.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="treaty_negotiations">
+            <pb facs="tcp:94942:3"/>
+            <head>THE ANSWER OF The Five Nations, <hi>VIZ. The Mahaques, Oneydes, Onnondages, Cajouges</hi> and <hi>Senekes,</hi> TO THE QUESTION Put to Them in <hi>May</hi> laſt By His Excellency
+<hi>Benjamin Fletcher,</hi> Captain General and Governour in Chief of the Province of <hi>New-York,</hi> Province of <hi>Pennſilvania,</hi> Country of <hi>New-Caſtle,</hi> and the Territories and Tracts of Land depending thereon in <hi>America,</hi> and Vice-Admiral of the ſame; Their Majeſties Lieutenant and Commander in Chief of the Militia, and of the Forces by Sea and Land within Their Majeſties Collony of <hi>Connecticut,</hi> and of all the Forts and Places of Strength within the ſame.</head>
+            <head type="sub">Given at <hi>Albany</hi> the 15th day of <hi>Auguſt,</hi> 1694.</head>
+            <pb facs="tcp:94942:4"/>
+            <head type="sub">PRESENT</head>
+            <list>
+               <item>His Excellency <hi>Benjamin Fletcher, &amp;c.</hi>
+               </item>
+               <item>Coll. <hi>Andrew Hamilton,</hi> Governour of <hi>Eaſt</hi> and <hi>Weſt-Jarſey.</hi>
+               </item>
+               <item>
+                  <list>
+                     <head>Of Their Majeſties Council for the Province of <hi>New-York.</hi>
+                     </head>
+                     <item>Coll. <hi>Stephen Cortland,</hi> 
+                     </item>
+                     <item>Coll. <hi>Nicholas Bayard,</hi>
+                     </item>
+                     <item>Coll <hi>William Smith,</hi>
+                     </item>
+                     <item>
+                        <hi>Chidley Brooke,</hi> Eſq.</item>
+                     <item>Major <hi>Peter Schuyler,</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Commiſſioners from the <hi>Maſſachuſets Bay</hi> in <hi>New-England.</hi>
+                     </head>
+                     <item>Coll. <hi>John Pincheon,</hi> 
+                     </item>
+                     <item>
+                        <hi>Samuell Sewell,</hi> Eſq.</item>
+                     <item>Major <hi>Penn Towneſend,</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Commiſſioners from <hi>Connecticut</hi> Collony.</head>
+                     <item>Coll. <hi>John Allyn,</hi> 
+                     </item>
+                     <item>Capt. <hi>Caleb Stanley,</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>The <hi>Sachims</hi> or <hi>Indian Kings.</hi>
+               </head>
+               <item>
+                  <list>
+                     <head>Mohaques,</head>
+                     <item>
+                        <hi>Rode,</hi> 
+                     </item>
+                     <item>
+                        <hi>Sinnonquireſſe,</hi>
+                     </item>
+                     <item>
+                        <hi>Onnuchwarranore,</hi>
+                     </item>
+                     <item>
+                        <hi>Toſoquatho,</hi>
+                     </item>
+                     <item>
+                        <hi>Taſſorandeſe,</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Oneydes.</head>
+                     <item>
+                        <hi>Adogounwa,</hi> 
+                     </item>
+                     <item>
+                        <hi>Caraquarie,</hi>
+                     </item>
+                     <item>
+                        <hi>Sohorochjondie,</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Onnondages.</head>
+                     <item>
+                        <hi>Sadekanacktie,</hi>
+                     </item>
+                     <item>
+                        <hi>Dekaniſſore,</hi> 
+                     </item>
+                     <item>
+                        <hi>Canadgegai,</hi>
+                     </item>
+                     <item>
+                        <hi>Carachkindie,</hi>
+                     </item>
+                     <item>
+                        <hi>Tagoraſuitho,</hi>
+                     </item>
+                     <item>
+                        <hi>Odaniende,</hi>
+                     </item>
+                     <item>
+                        <hi>Orondiſachti,</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Cayouge</head>
+                     <item>
+                        <pb n="5" facs="tcp:94942:4"/>
+                        <hi>Sorichnowanne,</hi>
+                     </item>
+                     <item>
+                        <hi>Dekaeijow,</hi> 
+                     </item>
+                     <item>
+                        <hi>Taneriſſo,</hi>
+                     </item>
+                     <item>
+                        <hi>Cadgiſſo,</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Senekes,</head>
+                     <item>
+                        <hi>Raſadſte,</hi> 
+                     </item>
+                     <item>
+                        <hi>Radondareſax,</hi>
+                     </item>
+                     <item>
+                        <hi>Oſtewatte,</hi>
+                     </item>
+                     <item>
+                        <hi>Ohawadege,</hi>
+                     </item>
+                     <item>
+                        <hi>Tehondaiſſen,</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Carachquinno,</hi> A Queen.</item>
+            </list>
+            <p>The Foot Guards were drawn up before the place of Au<g ref="char:EOLhyphen"/>dience, and a Troop of Dragoons on the Right Hand.</p>
+            <p>The Sachims, by a Meſſenger, acquaint his Excellency, that they are ready to wait upon his Excellency, and give their Anſwer to that Queſtion propoſed to them the 7th of <hi>May</hi> laſt.</p>
+            <p>His Excellency ſent word, he was reàdy.</p>
+            <p>The <hi>Sachims,</hi> attended by their other <hi>Indians,</hi> came in order, two and two, <hi>Rode,</hi> the firſt Sachim of the <hi>Mo<g ref="char:EOLhyphen"/>haques</hi> being Leader, ſinging aloud as they marched. Songs of Joy and Peace. Then the <hi>Indians</hi> took their places upon Planks laid upon the Ground, <hi>Rode</hi> wàlking round them, and ſinging, until all were ſet down.</p>
+            <p>
+               <hi>Dekaniſſore</hi> roſe up, and deſired liberty from his Ex<g ref="char:EOLhyphen"/>cellency to ſing a Song or two of Peace before they begin their Diſcourſe. Which was granted. Then he took his place.</p>
+            <p>
+               <hi>Rode</hi> roſe up, addreſſing his Diſcourſe to the <hi>Sachims</hi> of the five Nations, told them what great Reaſon they had to rejoyce to ſee their <hi>Brother Caijenquirago</hi> with ſo many that were of the Covenant Chain attending him, to
+<pb n="6" facs="tcp:94942:5"/>
+conſûlt of Matters relating to the publick Good. After which the whole Company of <hi>Indians</hi> ſung two or three Songs of Joy and Peace. Then</p>
+            <p>
+               <hi>Sadekanacktie,</hi> the Speaker, roſe up, and firſt turning to the <hi>Indians,</hi> repeated how long the five Nations had been in Amity with the Inhabitants of the Province of <hi>New-York,</hi> and the Subjects of the Crown of <hi>England</hi> In <hi>America;</hi> with a Narrative of the many Acts of Friendship happening mutually from time to time, and how the <hi>Covenant Chain</hi> was firſt made<g ref="char:cmbAbbrStroke">̄</g>.</p>
+            <p>Then turning to his Excellency, ſaid,</p>
+            <p>
+               <hi>Brother Cajenquirago,</hi> You expected to ſee us here, and we the <hi>Sachims</hi> of the <hi>five Nations</hi> are come accor<g ref="char:EOLhyphen"/>dingly to ſpeak to you.</p>
+            <p>
+               <hi>Brother Caijenquirago,</hi> You appointed us to meet you here in one hundred Days, to give you our anſwer, <hi>Who will be for you, and who againſt you?</hi> This is the hun<g ref="char:EOLhyphen"/>dredth Day, and we are come with the Repreſentatives of the five Nations to give an unanimous Anſwer.</p>
+            <p>This Spring we gave you an account, that we had ſent Meſſengers to <hi>Canada</hi> to treat with the <hi>French;</hi> for which ill management you gave us a Rebuke, but withal you did receive us again into your Favour, and imbraced us, pro<g ref="char:EOLhyphen"/>miſing not to break the Covenant Chain ſo long as you had Blood in your Veins, and gave a Belt of Wampum in Confirmation of it.</p>
+            <p>
+               <hi>Brother Caijenquirago,</hi> You ſee that the Number of our People are much diminiſhed; ſome of them have been out a Hunting lately, and have caught a ſmall matter, we do preſent your Excellency with ſome part of what we have got. Then gave ſome Beaver and Peltry.</p>
+            <p>
+               <pb n="7" facs="tcp:94942:5"/>
+               <hi>Brother Caijenquirago,</hi> I ſhall be brief in what I have to to ſay. In the days of Old, when the <hi>Chriſtians</hi> came firſt into this River, we made a Covenant with them, firſt with the Bark of a Tree, afterwards it was renewed with a twiſted Withe; but in proceſs of time, left that ſhould decay and rot, the Covenant was faſtened with a Chain of Iron, which ever ſince has been called the Covenant Chain, and the end of it was made faſt at <hi>Onnondage,</hi> which is the centre of the five Natïons. And therefore it was concluded, That whoever ſhould violate or moleſt that Chain, or any part of it, the parties linked in the Chain ſhould unanimouſly fall upon ſuch, and diſtroy them; they ſhould certainly dye the Death.</p>
+            <p>Since the time that the Governors have been here from the great King of <hi>ENGLAND,</hi> we have made a general and more firm Covenant, which has grown ſtronger and ſtronger from time to time; and our Neigh<g ref="char:EOLhyphen"/>bours ſeeing the advantage thereof, came and put in their Hands into the ſame Chain, particularly they of <hi>New-England, Connecticut, New-Jarſey, Pennſilvania, Mary<g ref="char:EOLhyphen"/>land</hi> and <hi>Virginia.</hi> But ſince that time that all our Neighbours have put in their Hands into the Covenant Chain, we have had great ſtruggling and trouble from the common Enemy, the <hi>French;</hi> Our <hi>Brother Caijen<g ref="char:EOLhyphen"/>quirago's</hi> Wriſt, and ours, are tyred, and ſtiff with holding faſt the Chain alone, whilſt the reſt of our Neighbours ſit ſtill and ſmoake it. Thae Greeſe is melted from our Fleſh, and drops ûpon our Neighbours, who are grown fat, and live at eaſe, while we become lean: They flouriſh, and we decreaſe.</p>
+            <p>
+               <pb n="8" facs="tcp:94942:6"/>Then naming all the Engliſh Plantations, ſaid,</p>
+            <p>
+               <hi>Brethren,</hi> we are envied by our Enemies round about, and particulàrly by the <hi>French,</hi> who are very unconſtant; and if the French or any other Enemy fall upon us, let us all joyn together, and take up the Hatchet in our hands, and then we ſhall be ſtrong enough to deſtroy our Enemies, and live in Peace afterwards.</p>
+            <p>
+               <hi>Brother Caijenquirago,</hi> and the reſt of the Brethren that are in covenant with us, It has been an antient Cuſtom to renew the Covenant Chain, and to make it clean and bright, that it may ſhine like Silver. And we promiſe, That it ſhall be on our parts ſo ſtrong and in<g ref="char:EOLhyphen"/>violable, that the Thunder it ſelf ſhall not break it.</p>
+            <p>
+               <hi>Brother Cajenquirago,</hi> and the reſt of our <hi>Brethren,</hi> We have, in the time that the Governours of this Pro<g ref="char:EOLhyphen"/>vince were called <hi>Corlaer,</hi> planted here in this plâce a Tree of Peace and Wellfair, whoſe Roots and Branches extend themſelves as far as <hi>New-England, Connecticut, New-Jarſey, Pennſilvania, Maryland</hi> and <hi>Virginia,</hi> and whoever touches that Tree, which now we make green and ſapid, or any of the Roots of it, we muſt not only be ſenſible, to feel and reſent it, but riſe up, and unanimouſly fall upon them that make that breach, to diſtroy them.</p>
+            <p>We muſt àcquaint you, That it has been an antient Cuſtom among the five Nations to keep their Meeting at <hi>Onnondage,</hi> which we are reſolved to continue there, and if upon Occaſion àny be ſent for from hence, to be preſent at our General Meeting, we deſire that they may come up.</p>
+            <p>
+               <hi>Brother Caijenquirago,</hi> We have been diſobedient to
+<pb n="9" facs="tcp:94942:6"/>
+your Commands, in going to <hi>Canada</hi> to treat with the <hi>French.</hi> We thought, becauſe our Brethren of <hi>New-England</hi> had treated with the Enemy, the <hi>French,</hi> to the Eaſtward, we might go and ſee whether there was any Peace concluded, or Treaty made to our prejudice; our jealouſie ariſing by reaſon of the <hi>French</hi> telling us, that <hi>Chavaleer Deaux</hi> was ſent back to <hi>Canada</hi> by them of <hi>New-England</hi> (whom we ſaw in <hi>Canada,</hi> giving us a pieced of Money, as a Token that he was freed by the <hi>Engliſh</hi>) and therefore they told us, it was in vain for us to war againſt them, for the <hi>Engliſh</hi> will ſet them at liberty again, as ſoon às they are taken.</p>
+            <p>
+               <hi>Brother Caijenquirago,</hi> We pray that your Excellency may order that Powder, Lead, Guns, and other Ammu<g ref="char:EOLhyphen"/>nition may be ſold cheaper; and ſince <hi>Arnout</hi> is coming with ſome of the far Nations, it will be requiſite that ſuch Goods may be ſold cheap, for their encouragement, that they may be thereby the eaſier induced to come and live among us.</p>
+            <p>Brethren of <hi>New-England, Connecticut,</hi> the <hi>Jarſeys, Pennſilvania, Maryland</hi> and <hi>Virginia,</hi> Hearken to what we now ſay, We have renewed the Covenant Chain with you all: We always depended much upon <hi>New-England</hi> to be the chief of them that put their hand into the Cove<g ref="char:EOLhyphen"/>nant Chain; we put more than ordinary confidence in your Integrity and readineſs to aſſiſt us in the common De<g ref="char:EOLhyphen"/>fence; and that you may ſee we are not forgetful of your Engagements, here is your Token of your being in the Covenant Chain, which (<hi>being a Salmon painted upon a blank Paper</hi>) you ſent us; look upon it, <hi>Brother Caijen<g ref="char:EOLhyphen"/>quirago:</hi> And we preſent to you, our <hi>Brother Coijequi<g ref="char:EOLhyphen"/>rago,</hi>
+               <pb n="10" facs="tcp:94942:7"/>
+a belt of Wampum, às a token whereby we acknow<g ref="char:EOLhyphen"/>ledge you to be the Head of Covenant Chain, and that we deſire you to give notice to all the Governments, that we have renewed the Covenant Chain with them, and deſire their aſſiſtance againſt the common Enemy; which we pray you to put them in mind of.</p>
+            <p>
+               <hi>Brother Caijenquirago,</hi> We have ſaid what we deſign to ſay to Night, and ſhall ſpeàk to morrow concerning what has been tranſacted at <hi>Canada,</hi> by our People, and what Tokens we hàve from the far Nations of <hi>Twichtwichs</hi> and <hi>Dionondades,</hi> to whom the Belts of Wampum were ſent. And we follow your cuſtom in giving our Preſent altogether. So gave a parcel of Beaver and Pèltry.</p>
+            <div type="session">
+               <head>At a Meeting at <hi>Albany</hi> the 16th Day of <hi>Auguſt,</hi> 1694.</head>
+               <list>
+                  <head>PRESENT</head>
+                  <item>His Excellency <hi>Benjamin Fletcher, &amp;c.</hi>
+                  </item>
+                  <item>Coll. <hi>Andrew Hamilton,</hi> Governour of <hi>Eaſt</hi> and <hi>Weſt-Jarſey.</hi>
+                  </item>
+                  <item>
+                     <list>
+                        <head>Of Their Maieſties Council for the Province of <hi>New-York.</hi>
+                        </head>
+                        <item>Coll. <hi>Stephen Cortland,</hi> 
+                        </item>
+                        <item>Coll. <hi>Nicholas Bayard,</hi>
+                        </item>
+                        <item>Coll <hi>William Smith,</hi>
+                        </item>
+                        <item>
+                           <hi>Chidley Brooke,</hi> 
+                           <abbr>Eſq</abbr> 
+                        </item>
+                        <item>Major <hi>Peter Schuyler,</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>
+                     <list>
+                        <head>Commiſſioners from the <hi>Maſſachuſets Bay</hi> in <hi>New-England.</hi>
+                        </head>
+                        <item>Coll. <hi>John Pincheon,</hi> 
+                        </item>
+                        <item>
+                           <hi>Samuell Sewell,</hi> 
+                           <abbr>Eſq</abbr>
+                        </item>
+                        <item>Major <hi>Penn Towneſend,</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>
+                     <list>
+                        <head>Commiſſioners from <hi>Connecticut</hi> Collony.</head>
+                        <item>Coll. <hi>John Allyn,</hi> 
+                        </item>
+                        <item>Capt. <hi>Caleb Stanley,</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>The <hi>Sachims</hi> or <hi>Indian Kings.</hi>
+                  </item>
+               </list>
+               <p>
+                  <pb n="11" facs="tcp:94942:7"/>
+                  <hi>Dekaniſſore</hi> (one of the Sachims of <hi>Onnondage</hi>) roſe up, and ſaid,</p>
+               <p>
+                  <hi>Brother Caijenquirago,</hi> We, the five Nations of <hi>Indians</hi> Weſtward, <hi>viz.</hi> the <hi>Mohaques, Oneydes, Onnondages, Cajouges and Senekes,</hi> did conclude to ſend Meſſengers in the Spring to treat with the Governour of <hi>Canada;</hi> and I <hi>Dekaniſſore</hi> having been one of their Agents, am now come to relate what hath paſſed between him and me at <hi>Quebeck;</hi> therefore we pray our <hi>Brother Caijenquirago</hi> and our Brethren and Neighbours of <hi>New-England, Con<g ref="char:EOLhyphen"/>necticut, New-Jarſey, Pennſilvania, Maryland</hi> and <hi>Virginia,</hi> to heaken what we ſhall ſay.</p>
+               <p>Since the Governor of <hi>Canada</hi> has ſo often ſent for us to come to <hi>Canada,</hi> to treat with him, we went thither, and told him that we were come to ſpeak of Peace; then made theſe following Propoſitions to him, ſaying,</p>
+               <p>
+                  <hi>Father,</hi> If we do not conclude a Peace now, it will lie at your door, and not oûrs; for we have already taken the Hatchet out of the Hands of the <hi>River Indians,</hi> (whom we invited to the War) in order to make Peace. But we muſt tell you, that you are an ill man, for you have given the Hatchet into the Hands of the <hi>Dowa<g ref="char:EOLhyphen"/>ganhaes</hi> to hurt and diſtroy us: you are unconſtant, and not to be truſted.</p>
+               <p>We have had War ſo long together, which was begun by your means, but we never hated the Houſe of <hi>Ockqueſe</hi> our Son (a Gentleman who lives in <hi>Mont Real</hi>) let him come that toylſome Journey to our Caſtle at <hi>Onnondage</hi> if he pleaſe, he ſhall be wellcome.</p>
+               <p>
+                  <hi>Father,</hi> We are now ſpeaking of Peace, and I muſt
+<pb n="12" facs="tcp:94942:8"/>
+ſpeak a word to your Praying Indians of the firſt Caſtle (call'd <hi>Cachannage.</hi>)</p>
+               <p>You <hi>Praying Indians</hi> of <hi>Canada,</hi> you know our cuſtoms and methods of acting better than your Gover<g ref="char:EOLhyphen"/>nour, therefore we deſire you to make him acquainted therewith, and be aſſiſtant in the proſecution of this good work of Peace that we are about.</p>
+               <p>And you <hi>Praying Indians</hi> of the ſecond Caſtle (call'd <hi>Cannaſdage</hi>) you are worſe than the <hi>French</hi> themſelves, you deſerted from us, and ſided with our Enemies to diſtroy us; we tell you now to aſſiſt and give your help<g ref="char:EOLhyphen"/>ing hand in the proſecution of this good Work of Peace that we are now about with your Governour.</p>
+               <p>
+                  <hi>Father,</hi> You have almoſt eàt us up, all our beſt men are diſtroyed in this bloody War, but we forget all that is paſt, we threw the Hatchet in the River at <hi>Cajohage,</hi> where there was a great current, but you found it again, and betrayed our People at <hi>Cadaracqui,</hi> after that you ſent for us to fetch Home our Priſoners, whom you re<g ref="char:EOLhyphen"/>ſtored. Then the Hatchet was thrown into the sky, but you held your hand at a ſtring that was faſtened to the Helve of the Hatchet, and pulled it down again, ànd fell upon our People; whereupon we took an opportunity to fall upon you at the Iſland of <hi>Mount Real,</hi> where we diſtroyed many of your People and Houſes. Notwithſtanding all that hath paſſed, we wipe away and cover all the Blood that has been ſhed on both ſides, during this War.</p>
+               <p>
+                  <hi>Onondio,</hi> We have had Wars together a long time, we give you now a Cordial or Drink to drive away all ill Thoughts, and to purge your heart, that it may be clean,
+<pb n="13" facs="tcp:94942:8"/>
+and reſtored to its former ſtate, and that all ill Thoughts may be vomited out.</p>
+               <p>
+                  <hi>Onondio,</hi> We will admit of no ſettlement at <hi>Cadarac<g ref="char:EOLhyphen"/>qui;</hi> you have had your fires there twice, which we have quenched, and therefore will not conſent to any rebuild<g ref="char:EOLhyphen"/>ing <hi>Cadaracqui.</hi> We clear the River that you may have a clear Paſſage throw it, and come freely to <hi>Onnondage.</hi>
+               </p>
+               <p>
+                  <hi>Onondio,</hi> We make the Sun clear, and diſſipate all Clouds and Darkneſs, that the Light may appear without any interruption.</p>
+               <p>
+                  <hi>Onondio,</hi> During this War we have taken Priſoners from one another; we delivered over ours to the Families that loſt their People in the War, according to our Cuſtom, who may deliver them, if they pleaſe, they are none of ours; and your People may do the ſame. Here are two Priſoners which we have brought along with us, whom we deliver unto you.</p>
+               <p>Then related the Diſcourſe the Governour of <hi>Canada</hi> made to him.</p>
+               <p>After I had made an end of ſpeaking, the Governour of <hi>Canada</hi> told me, he would not make Peace with <hi>Caijenquirago.</hi> Whereupon I anſwered, Theſe words do not pleaſe me, you ſhall kéep Peace with him.</p>
+               <p>
+                  <hi>Onondio</hi> ſaid, I muſt fight againſt <hi>Cajenquirago,</hi> I am not Maſter to make Peace, that belongs to my Maſter the King of <hi>France</hi> that lives over the great Water.</p>
+               <p>I replyed, I do not like this Diſcourſe, if you ſhould fight him now, and not ſtay till I get Home, all the Country will eſteem me a Traytor, and that I have be<g ref="char:EOLhyphen"/>trayed my Country; I cannot meddle to treat with you. This Diſcoûrſe laſted between the Governour of <hi>Canada</hi>
+                  <pb n="14" facs="tcp:94942:9"/>
+and me three days; but I convinced the Governour of <hi>Canada</hi> at laſt, who ſaid, I will not make war with <hi>Caijen<g ref="char:EOLhyphen"/>quirago</hi> this Summer, but wait to hear what he will ſay.</p>
+               <p>The Governour of <hi>Canada</hi> inſiſted three days to have two Hoſtages left, which I denyed, but they agreeing themſelves freely to tarry, were left there; one is an <hi>Onnondage,</hi> the other a <hi>Seneke.</hi>
+               </p>
+               <p>As ſoon as the two Hoſtages agreed to tarry, the Gover<g ref="char:EOLhyphen"/>nour of <hi>Cânada</hi> ſaid, <hi>I accept of the Peace as you offer it.</hi>
+               </p>
+               <p>
+                  <hi>Son,</hi> Bring all the Priſoners home that you have taken from me, and your Priſoners ſhall have their liberty to go home, if they pleaſe.</p>
+               <p>
+                  <hi>Children,</hi> I erect my Fire again at <hi>Cadaracqui,</hi> and plànt there a Tree of Peace. Then laid down a Belt of Wampum. And deſired that <hi>Caijenquirago</hi> would ſend a Wiſe Man to ſpeak to him, who ſhould have free pro<g ref="char:EOLhyphen"/>tection, as is cuſtomary among Chriſtians.</p>
+               <p>
+                  <hi>Children of the five Nations,</hi> If <hi>Cajenquirago</hi> ſhould imploy you to do any thing for him with me, don't accept of the ſervice, let him ſend people of his own, there are eighty days appointed me for an anſwer. Then laid down the Governour of <hi>Canada</hi> his Belt of Wampum to <hi>Caijenquirago.</hi>
+               </p>
+               <p>The Sachims of the <hi>Dionondades</hi> were at <hi>Canada,</hi> and ſaid to me, Let this which you have ſaid of Peace be from your Heart; we fear it is but Words, and not Real, do not let us feel the ſmart of the Hatchet any longer. Then they laid down a Belt of Wampum, which I ſhow unto your Excellency, laying it down.</p>
+               <p>The ſecond Caſtle of praying Indians, ſaid, <hi>Brethren,</hi> Our Father <hi>Onondie</hi> has told you to bring Home all the
+<pb n="15" facs="tcp:94942:9"/>
+Priſoners taken from hence by the five Nations, do not fail to do it. Then gave two Belts of Wampum.</p>
+               <p>
+                  <hi>Brother Caijenquirago,</hi> What I havae now ſaid, is con<g ref="char:EOLhyphen"/>tained in the Paper which the Governour of Canàda gave me, which paper I deliver to your Excellency, and tell you withal, that I brought Letters to the Jeſuite <hi>Milet</hi> at <hi>Oneyde,</hi> who was to inform us what is in the paper.</p>
+               <p>His Excellency ſaid then,</p>
+               <p>
+                  <hi>Brethren,</hi> I reject this Belt of Wampum ſent by the Governour of Canada, and will give you my Reaſons for it, upon a Conference with the Sachims, or when I make my Reply to the whole five Nations.</p>
+            </div>
+            <div type="session">
+               <head>At a Meeting at <hi>Albany</hi> the 17th Day of <hi>Auguſt,</hi> 1694.</head>
+               <p>Preſent <hi>His Excellency Benjamin Fletcher, and thoſe who were at the Meeting yeſterday.</hi>
+               </p>
+               <p>
+                  <hi>SAdekanacktie</hi> ſong a long Song of Peace, and ſaid, I ſhall now relate what hath paſſed between the <hi>Do<g ref="char:EOLhyphen"/>wagànhaes,</hi> the <hi>Dionondades,</hi> and us, to whom we ſent ſome Belts of Peace.</p>
+               <p>They ſaid, You had ſome priſoners of the <hi>Dionondades</hi> in your Caſtles, whom you ſent Home to their Country with the Belts of Wampum from <hi>Caijenquirago</hi> and You
+<pb n="16" facs="tcp:94942:10"/>
+to ſpeak of Peace, fearing to bring the Belts your ſelves, the War was ſo hot. And after you had ſent the ſaid Priſoners back, ſome of your People being out hunting, two were taken priſoners by the <hi>Dionondades,</hi> and brought to their Caſtles, but were civilly uſed, and not like priſoners. The <hi>Dionondades</hi> ſaid to the two Priſoners that were brought thither, We are glad that we have an opportunity to ſpeak to you face to face, the Sun has been ſo propitious to us to ſend us Home our priſoners. Then gave a few ſtrings of Wampum.</p>
+               <p>We are glad of this occaſion to ſpeak to you here. We have been drunk and diſtracted in waring one againſt the other. We give you now a Cordial and Potion to ſettle your heart, that there may be no more War between us. They gave a Belt of Wampum.</p>
+               <p>We are glad to ſee you here, and that you tell us, that your Doors are open as far as <hi>Caijenquirago's</hi> Houſe at <hi>New-York,</hi> that we may freely ſee through thither. They gave this belt of VVampum.</p>
+               <p>
+                  <hi>Brethren,</hi> VVe are thankful that you have prepared a Room for us at <hi>Onondage,</hi> where we may ſpeak freely to one another: Our whole Country is free for you to come and treat with us; we make room for you accor<g ref="char:EOLhyphen"/>dingly. Then gave a Belt of VVampum.</p>
+               <p>
+                  <hi>Brethren,</hi> VVe are glad that you invite us to your Country, q<g ref="char:cmbAbbrStroke">̄</g>uite even to the Houſe of <hi>Caijenquirago:</hi> All our River is rejoyced at it; be not afraid to come hither, you ſhall be freely admitted, without any moleſtation. Then gave another belt of VVampum.</p>
+               <p>
+                  <hi>Brethren,</hi> VVe are thankful for your putting us in mind of what we have tranſacted formerly, That if any Miſ<g ref="char:EOLhyphen"/>chief
+<pb n="17" facs="tcp:94942:10"/>
+happened between us, we are to meet, and compoſe Differences. VVe are now met together to put a period to all our Miſ-underſtandings, which is a matter of great Rejoycing to all our River. Then gave a belt of black Wampum.</p>
+               <p>
+                  <hi>Brethren,</hi> Hearken to us, All the Nations between Us and <hi>New-York,</hi> we rent the Clouds aſunder, and drive all Darkneſs out of the Sky, that the Sun of Peace may ſhine clear and bright over us all, without interruption. Then gave a ſtone Tobacco pipe, repreſenting the Sun, of the breadth of the Seal of the Province.</p>
+               <p>
+                  <hi>Brethren,</hi> We put the Hatchet into the Hands of the <hi>Kichtages, Twichtwiches</hi> and <hi>Odſirages,</hi> to war againſt the <hi>five Nations,</hi> but now we will go in three days to thoſe Nations, and take the Hatchet out of their hand, (Then took hold of the middle of a ſtone Tobacco-pipe in form of a Hatchet) You <hi>Senekes</hi> are ſtupid Crea<g ref="char:EOLhyphen"/>tures, we warn you in the mean time not to go hunting far from your Caſtles, that you be not hurt by the ſaid Nations, and then accuſe us. Then gave the Tobacco-pipe.</p>
+               <p>I have done what paſſed between our two <hi>Indians</hi> and the <hi>Dionondades.</hi> Now I apply my ſelf to your Ex<g ref="char:EOLhyphen"/>cellency.</p>
+               <p>
+                  <hi>Brother Caijenquirago,</hi> We deſire the ſaid far <hi>Indians</hi> may be admitted to come no further than the <hi>Senekes</hi> Country; for if they ſhould come quite down ſo far as this place, they will ſee what à poor mean condition we are in, and be Spyes, and ſo diſcover our Nakedneſs; for theſe <hi>Indians</hi> are Allyes of the Governour of <hi>Canada.</hi>
+               </p>
+               <p>
+                  <pb n="18" facs="tcp:94942:11"/>His Excellency ſaid,</p>
+               <p>
+                  <hi>Brethren,</hi> Your Diſcourſe has been very long, and conſiſts of many Heads; it will require ſome time for my conſideration. I will give you Notice when you ſhall attend for my Anſwer.</p>
+            </div>
+            <div type="session">
+               <head>A Conference held at a private Houſe in <hi>Albany</hi> the 20th of <hi>Auguſt,</hi> 1694.</head>
+               <p>
+                  <hi>Between his Excellency</hi> Benjamin Fletcher, &amp;c. <hi>and the Sachims of the five Nations.</hi>
+               </p>
+               <p>In the Preſence of
+<list>
+                     <item>Coll. <hi>Andrew Hamilton,</hi> Governor of the <hi>Jarſeys.</hi>
+                     </item>
+                     <item>
+                        <hi>The Council of the Province of</hi> New-York.</item>
+                     <item>
+                        <hi>And the Commiſſioners from</hi> Boſton <hi>and</hi> Connecticut.</item>
+                  </list>
+               </p>
+               <p>Sadekanacktie, <hi>Speaker of the Indians.</hi>
+               </p>
+               <sp>
+                  <speaker>His Excellency ſaid,</speaker>
+                  <p>I Do very well approve of what you ſaid the firſt day, in renewing the Covenant Chain, which ſhall always be kept inviolably by me and all the <hi>Engliſh Plantations.</hi>
+                  </p>
+                  <p>Is Peace firmly concluded?</p>
+               </sp>
+               <sp>
+                  <speaker>Sadekanacktie,</speaker>
+                  <p>We have made Peace, provided you opprove of it;
+<pb n="19" facs="tcp:94942:11"/>
+and the reaſon of our going to <hi>Canada</hi> was to found the Governour of <hi>Canada</hi>'s mind, becauſe we had no body but <hi>Caijenquirago</hi>'s People that went out to war with us agâinſt the <hi>French,</hi> and it is impoſſible for us to be any longer the Barrier between the <hi>Engliſh</hi> and <hi>French.</hi> We have now brought our Enemies Anſwer, which is laid at <hi>Ca<g ref="char:EOLhyphen"/>ijenquirago</hi>'s feet, and refer the whole matter to your pru<g ref="char:EOLhyphen"/>dent management.</p>
+               </sp>
+               <sp>
+                  <speaker>His Excellency,</speaker>
+                  <p>Why do you ſay you have made Peace, provided I approve of it? You know you have ſent Sachims to <hi>Canada,</hi> contrary to your promiſe, and my expreſs com<g ref="char:EOLhyphen"/>mand; you have made a Peace without any proviſo, you have delivered Hoſtages, and releaſed Priſoners, and de<g ref="char:EOLhyphen"/>clare that you are weary of the War, and not able to hold it longer, ſo that there is nothing left for me, but either to acquieſe with what you have done, or to make war upon you. But ſince you have renewed the Covenant Chain, and while you preſerve that inviolable, I ſhall (to uſe your own Expreſſion) tye up my Hatchet from hurt<g ref="char:EOLhyphen"/>ing you. I can make no Peace with the Governour of <hi>Cânada.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sadekanacktie,</speaker>
+                  <p>Why do you doubt our integrity and fidelity in keep<g ref="char:EOLhyphen"/>ing the Covenant Chain firm<g ref="char:punc">▪</g> and inviolable with all our Brethren that àre linked therein? The leaſt Member can<g ref="char:EOLhyphen"/>not be touched, but the whole Body muſt feel and be ſen<g ref="char:EOLhyphen"/>ſible; if therefore an Enemy hurt the leaſt part of the Covenant Chain, we will joyn to diſtroy that Enemy; for we are one Head, one Fleſh, and one Blood.</p>
+               </sp>
+               <sp>
+                  <pb n="20" facs="tcp:94942:12"/>
+                  <speaker>His Excellency,</speaker>
+                  <p>I ſhall alſo maintain the Peace with all thoſe Nations of <hi>Indians</hi> which you have entered into Allyance with, upon your Engagement that they commit no acts of Ho<g ref="char:EOLhyphen"/>ſtility againſt any of their Majeſties Subjects.</p>
+               </sp>
+               <sp>
+                  <speaker>Sadekanacktie,</speaker>
+                  <p>We thought that our Treaty with the <hi>French</hi> would have had no ſucceſs, becauſe yoûr Excellency rejected the belt of Wampum which the Governour of <hi>Canada</hi> ſent to your Excellency, to deſire a Meſſenger may be ſent thither; and ſince the Governour of <hi>Canada</hi> forbids us to bring any Meſſage from you to him, we think it will be requiſite that you ſhould ſend ſome body to a neutral place, where there may be a Conference between the two Governments.</p>
+               </sp>
+               <sp>
+                  <speaker>His Excellency,</speaker>
+                  <p>I ſay again, what I ſaid before, I cannot treat of Peace with the Governour of <hi>Canada,</hi> nor receive any Meſſage from him, and therefore I did reject this belt of Wampum, as I do renounce any correſpondence with him; the Go<g ref="char:EOLhyphen"/>vernour of <hi>Canada</hi> hath put this fallacy upon you to bring this belt unto me, which he knew I could not receive. I find by what the Governour of <hi>Canada</hi> ſays, he intends to rebuild <hi>Cadaracqui.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sadekanacktie,</speaker>
+                  <p>We have told the Governour of <hi>Canada</hi> already; that he ſhall not rebuild <hi>Cadaracqui,</hi> and if we come to diſ<g ref="char:EOLhyphen"/>courſe him again, ſhàll tell him plainly, that we will not ſuffer it.</p>
+               </sp>
+               <sp>
+                  <speaker>His Excellency,</speaker>
+                  <p>You will do very well to hinder him from building that
+<pb n="21" facs="tcp:94942:12"/>
+Fort, or any other near the Lake; if you ſuffer it, 'twill be a breàch of the Covenant Chain, and bring a Slàvery upon your ſelves and Poſterity. I am bound to make war, and prevent any Incroachment upon this Province; it is your Duty to give me notice, ſo ſoon as you héar of their motion that way, that I may bring Forces to obſtruct them; and I expect that you ſhall joyn your Forces with me, otherwiſe all your pretences to the Renewal of the Co<g ref="char:EOLhyphen"/>venant Chain are fallacious.</p>
+               </sp>
+               <sp>
+                  <speaker>Sadekanacktie,</speaker>
+                  <p>We are glad you renew that to us, we ſhall never ſuffer that place to be built, it has been Omnious to us, our people having been betrayed there.</p>
+               </sp>
+               <sp>
+                  <speaker>His Excellency,</speaker>
+                  <p>I have often càutioned you from giving credit to the Jeſuit <hi>Milet,</hi> who has alwayes betrayed you, therefore you muſt ſuffer none of that Tribe of Jeſuites to come into your Càſtles. I hàve formerly warned you of this, and now you ſee the evil of it. It is not for your Honour, that you who are the antienteſt and moſt War-like Nations of Indians upon this Continent, ſhould creep ſo low, as to go and ask a Peace from the Governour of <hi>Canada;</hi> I expect that the <hi>French Indians</hi> ſhould likewiſe come and creep to me, and ask Peace, as you have baſely done to the Governour of <hi>Canada.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sadekanacktie,</speaker>
+                  <p>Since you cannot ſend Meſſengers to <hi>Canada,</hi> we deſire that you would write to the Governour of <hi>Canada,</hi> and alſo to the great King, your Maſter; and we deſire the Governour of <hi>Canada</hi> write to his Maſter, That there may be Peace concluded in theſe parts.</p>
+               </sp>
+               <sp>
+                  <pb n="22" facs="tcp:94942:13"/>
+                  <speaker>His Excellency,</speaker>
+                  <p>Let me firſt ſee the <hi>French Indians</hi> come down and deſire Peace of me, as you have gone to <hi>Count Frontimac,</hi> and then I will conſider what may be proper for me to do.</p>
+               </sp>
+               <sp>
+                  <speaker>Sadekanacktie,</speaker>
+                  <p>You ſay, we have ſtoopt ſo low to the <hi>French</hi> for Peace, but before ever we went thither, they had ſent two Meſ<g ref="char:EOLhyphen"/>ſengers for us to our Caſtles.</p>
+               </sp>
+               <sp>
+                  <speaker>His Excellency,</speaker>
+                  <p>The French paper you brought from Canada, ſayes, you bowed low to <hi>Count Frontimac,</hi> and ſtoopt as if he were your ſoveraign Prince, and made ſhow of your Re<g ref="char:EOLhyphen"/>pentance for all what you have done againſt him.</p>
+               </sp>
+               <sp>
+                  <speaker>Sadekanackti,</speaker>
+                  <p>The Governour of Canada need not to reflect upon us with his Writing, for how often has he ſent Belts of Wampum to us by all Occaſions, to make Peace with him?</p>
+               </sp>
+               <sp>
+                  <speaker>His Excellency,</speaker>
+                  <p>But he makes you his Children, and ſo you are liable to his correction, when he pleaſeth;</p>
+               </sp>
+               <sp>
+                  <speaker>Sadekanacktie,</speaker>
+                  <p>It is only a Name that we have given him, becauſe he calleth us Children, not that we own him as our Father.</p>
+               </sp>
+               <sp>
+                  <speaker>His Excellency,</speaker>
+                  <p>But I expect an Anſwer from you, that the French Indians ſhould come to me, and deſire to bury the Hatchet, as you have gone to Canada to do the like; it is for your Honour that you make them do it.</p>
+               </sp>
+               <sp>
+                  <pb n="23" facs="tcp:94942:13"/>
+                  <speaker>Sadekanacktie,</speaker>
+                  <p>The Praying Indians of <hi>Canada</hi> ſaid to <hi>Dekâniſſore,</hi> whaen he was there, That they would hold the Peace faſt which their Father, the Governour of <hi>Canada,</hi> had made with the five Nations, yea, as firm as they do the Chriſtian Faith; and that ſundry of them were ready to come hither a fighting, but were ſtopt upon <hi>Dekaniſſore</hi>'s coming thither, and our Indian Priſoners, that were taken by the <hi>French</hi> and Indians, were ſet at liberty.</p>
+                  <p>How ſhall we behave our ſelves? If we do not go to <hi>Canada</hi> there will be no confirmation of the Peace; and if they come to us in our Country, and ask what our Gover<g ref="char:EOLhyphen"/>nour ſays to the matter, What ſhall we ſay?</p>
+               </sp>
+               <sp>
+                  <speaker>His Excellency,</speaker>
+                  <p>It is poſſible they may keep the Peace with you, but if any of them commit the léaſt Outrage upon any of their Majeſties Subjects in the Covenant Chain, you muſt be accountable for it; for the only Reaſon why I acquieſe with this Peace you have made, contrary to my command and your own Engagements, is, becauſe I am unwilling to make war againſt you, or ſpill your Blood; I rather chûſe to forgive what is paſt, and adviſe you for the fu<g ref="char:EOLhyphen"/>ture, that you may not be brought into Slàvery, which is by keeping a ſtrict and vigilent Eye upon the deceitful French, and their Indians, as when they were in War with you.</p>
+               </sp>
+               <sp>
+                  <speaker>Sadekanacktie,</speaker>
+                  <p>We thank you for your caution about the <hi>French,</hi> and deſire you and the Neighbouring Collonies may take care of this place, that it may be fortified, leaſt they ſhould ſurprize it.</p>
+               </sp>
+               <sp>
+                  <pb n="24" facs="tcp:94942:14"/>
+                  <speaker>His Excellency,</speaker>
+                  <p>It ſhall be done. The Garriſon ſhall be ſecured againſt all the force of <hi>Canada.</hi> The Eaſtern Indians have fallen upon <hi>New-England,</hi> notwithſtanding the Peace ſo lately made with that Collony, who are part of the Covenant Chain, and have ſpilt much Blood; you muſt therefore conſider of a way to make them bury their Hatchet, and not to war upon our Brethren of <hi>New-England.</hi>
+                  </p>
+               </sp>
+               <stage>Afternoon the ſame day.</stage>
+               <stage>The Sachims came together to give an Anſwer to the Propoſal concerning the Eaſtern Indians. <hi>Sadekanacktie</hi> Speaker.</stage>
+               <sp>
+                  <speaker>Sadekanacktie,</speaker>
+                  <p>We cannot ſend to the Eaſtern Indians, having no Men fit for that purpoſe, but being now bound to <hi>Canada,</hi> will tell the Governour of <hi>Canada</hi> to charge theſe Eaſtern Indians to lay down their Hatchet; for if we go firſt to the Eaſtern Indians, they can do nothing without the Governour of <hi>Canàda,</hi> and that would but prolong time, therefore it will be beſt to do it directly by the Governour of <hi>Canada.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>His Excellency,</speaker>
+                  <p>You muſt not think that ever <hi>Count Frontimac</hi> will cauſe the Eaſtern Indians make Peace, you muſt there<g ref="char:EOLhyphen"/>fore think of ſome other way to oblige them to lày down the Hatchet; for the Governour of <hi>Canada</hi> muſt not be depended upon: You will always find him unconſtant, as hitherto.</p>
+               </sp>
+               <sp>
+                  <pb n="25" facs="tcp:94942:14"/>
+                  <speaker>Sadekanacktie,</speaker>
+                  <p>We deſire to know whether we ſhall ſpeak to the far Indians, the <hi>Dionondades</hi> at <hi>Canada,</hi> if we ſhall ſee them there, (which we expect) ſince they are the Governour of <hi>Canada's Indians,</hi> or that we purſue the method we have begun, and ſpeak to them in their own Country?</p>
+               </sp>
+               <sp>
+                  <speaker>His Excellency,</speaker>
+                  <p>Though you have Peace with the <hi>French</hi> and their Indians, you muſt not expect that it will be laſting, if the French Indians ſhould continue to do Miſchief to the Brethren of <hi>New-England.</hi> As for Peace with the far Indians, I leave you to your own Methods, with this cau<g ref="char:EOLhyphen"/>tion, that you be not rocked a ſleep by it.</p>
+               </sp>
+               <sp>
+                  <speaker>Sadekanacktie,</speaker>
+                  <p>We deſire that Goods may be ſold cheap when thoſe far Indians come; then this place will be deſirable, like a fair Maid that has many Lovers, ſo all people will flock hither; alſo, that thoſe <hi>Indians</hi> that come with <hi>Arnout,</hi> may be civilly entertained, then they will ſettle amongſt us.</p>
+               </sp>
+               <sp>
+                  <speaker>His Excellency,</speaker>
+                  <p>I doubt not but they will find content in the Rate of Goods.</p>
+                  <p>The Peace made ſometime à go between the Indians to the Eaſtward and <hi>New-England,</hi> did no ways hurt the Covenant Chain; for thoſe Indians were at that time in Peace with you of the <hi>five Nations.</hi> And as for what you ſay of <hi>Chavaleer Deaux,</hi> it is nothing but <hi>French</hi> fallacy, he was not ſet at liberty by the people of <hi>New-Englaâd,</hi> (as I am informed) but broke Priſon, and was purſued.</p>
+               </sp>
+               <sp>
+                  <pb n="26" facs="tcp:94942:15"/>
+                  <speaker>Sadekanacktie,</speaker>
+                  <p>When we come to our Country, we will conſult what to do about the far Indians; and when we come to <hi>Canada</hi> we will ſpeak to the <hi>Praying Indians</hi> to come hither and make Peace with your Excellency; we wiſh we had one that could write all what hath paſſed, but will, never the leſs, bring an account to your Excellency of all what occurs.</p>
+               </sp>
+               <sp>
+                  <speaker>His Excellency,</speaker>
+                  <p>It behoves you to be upon your guard, notwithſtand<g ref="char:EOLhyphen"/>ing the Peace, to keep your Gates ſhut at Night, and good Scouts out, and if there be any party, either <hi>French</hi> or <hi>Indians</hi> approaching, forth-with give me an account, ând frequently correſpond with me. I will ſtrengthen this Garriſon, and ſecure it from all attempts of the Enemy.</p>
+                  <p>As for your meeting at <hi>Onnondage,</hi> I am not againſt it, neither did I ever oppoſe your conſulting of your own private Affairs, yet I cannot ſend up any to your Meeting at <hi>Onnondage,</hi> to conſult of thoſe Affairs which concern the whole Covenant Chain, wherein ſo many Provinces are included, whereof you own me to be the Head. I always expect to be Perſonally preſent on ſuch Occaſions.</p>
+                  <p>I will renew the Covenant Chain to morrow, and give you ſome Preſents from their Majeſties of <hi>Great Brittain.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sadekanacktie,</speaker>
+                  <p>We are obliged to your Excellency for your good Advice, not to be too ſecure, but to keep watch and look out, which we promiſe to do; and if we ſee any
+<pb n="27" facs="tcp:94942:15"/>
+Troops of French and Indians, we have but one Eye and one Ear, whatever we ſee and hear, your Excellency ſhall ſee and hear forth-with, we will immediately acquaint your Excellency. And ſince it is probable that there may be ſome amongſt us that wiil give the <hi>French</hi> an account of all, we deſire that your Excellency in your publick Diſcourſe to morrow will paſs it by.</p>
+               </sp>
+               <sp>
+                  <speaker>His Excellency,</speaker>
+                  <p>The <hi>Senekes</hi> of late have ſent a Belt of Wampum to the <hi>Indians</hi> of <hi>Delaware River,</hi> requiring them to take ûp the Hatchet of War, and fight along with them, which frightened thoſe peaceable Indians, that live among a peaceable People, who are no Warriours. And ſince they are in my Government of <hi>Pennſilvania,</hi> I charge the <hi>Senekes</hi> not to frighten them, but to let them alone.</p>
+               </sp>
+               <sp>
+                  <speaker>Sadekanacktie,</speaker>
+                  <p>We know nothing of any ſuch Belt ſent by us, pro<g ref="char:EOLhyphen"/>bably thoſe Indians that are fled from us, and live upon the <hi>Snſquahannah River</hi> may have ſent ſuch a Meſſage.</p>
+               </sp>
+               <sp>
+                  <speaker>His Excellency,</speaker>
+                  <p>I injoyn you, in renewing the Peace with thoſe Indians, to let them know, that they muſt not diſturb the <hi>Dela<g ref="char:EOLhyphen"/>ware Indians,</hi> nor the Inhabitants of the Province of <hi>Pennſilvania.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sadekanacktie,</speaker>
+                  <p>We think we have diſcourſed of all matters, and thoſe things we made no Reſponſe to, muſt be taken for granted.</p>
+                  <p>We deſire that your Excellency will begin early to morrow to ſpeak, and give ſuch Preſents as you will be<g ref="char:EOLhyphen"/>ſtow
+<pb n="28" facs="tcp:94942:16"/>
+upon us; for we will ſend a Poſt to the <hi>Senekes</hi> Country to prepare all things for our Journey and Nego<g ref="char:EOLhyphen"/>tiation with the far <hi>Indians</hi> and <hi>Canada.</hi>
+                  </p>
+               </sp>
+            </div>
+            <div type="session">
+               <head>At a Meeting at <hi>Albany,</hi> the 22th Day of <hi>Auguſt,</hi> 1694.</head>
+               <p>
+                  <hi>Preſent,</hi>
+                  <list>
+                     <item>His Excellency <hi>Benjamin Fletcher, &amp;e.</hi>
+                     </item>
+                     <item>Coll. <hi>Andrew Hamilton,</hi> Governor of the <hi>Jarſeys.</hi>
+                     </item>
+                     <item>The Council of <hi>New-York,</hi>
+                     </item>
+                     <item>Commiſſioners from <hi>Boſton</hi> and <hi>Connecticut,</hi>
+                     </item>
+                     <item>The Sachims and Indians of the five Nations.</item>
+                  </list>
+               </p>
+               <sp>
+                  <speaker>His Excellency,</speaker>
+                  <p>
+                     <hi>BRETHREN,</hi>
+                  </p>
+                  <p>I Am now to repeat in publick part of what paſſed in my private Conference yeſterday with your Sachims.</p>
+                  <p>I do approve of what you ſaid to me, in renewing the Covenant Chain; I ſhall alwayes inviolably preſerve it on my part, but muſt declare my diſlike to your proceedings towards the Peace, and do appeal to the wiſeſt of your Sachims, whether you have not broke it on your parts; but ſince you confeſs your error, and ſay you are weary of the War, and ſolemnly engage to be ſteſtfaſt to the Covenant Chain, I am unwilling to purſue you with
+<pb n="29" facs="tcp:94942:16"/>
+Rigour, but rather acquieſe, though at the ſame time you muſt allow we have alwayes made your Quarrels our own, and eſpouſed the War you had againſt the French of <hi>Canada,</hi> in friendſhip to you, when the Crowns of <hi>England</hi> and <hi>France</hi> were in perfect Peace.</p>
+                  <p>
+                     <hi>Brethren,</hi> The Reaſons for my rejecting the Belt pre<g ref="char:EOLhyphen"/>tended to be ſent by the the Governour of <hi>Canada,</hi> I hàve given already to the Sachims: I ſhall only ſay here, I cannot make peace with him.</p>
+                  <p>But as it is to your ſhame and diſ-honour, who are the Antienteſt ànd moſt War-like Nations of Indians, to have bowed ſo low to the Governour of <hi>Canada,</hi> and ask his Peace, as from a Father, ſo you ought to do your ſelves that Juſtice ànd Honour, to cauſe the <hi>Praying Indians</hi> of <hi>Canada</hi> to come and ask me to bury my Hatchet againſt them.</p>
+                  <p>
+                     <hi>Dekaniſſore</hi> did well and prudently to tell the Governor of <hi>Canada,</hi> That you will not admit him to rebuild <hi>Cadaracqui</hi> (which is his intention) If you ſuffer the <hi>French</hi> once to ſettle a Garriſon there, or near the Lake (be their pretences never ſo plauſible) they will bring you ànd your Poſterity into perpetual Bondage and Slavery.</p>
+                  <p>
+                     <hi>Brethren,</hi> You muſt unite your force and oppoſe this Deſign; I ſhall be ready to defeat it, if you will give me timely Notice, ànd your Aſſiſtance.</p>
+                  <p>I do not pretend to hinder your antient cuſtom of Meeting at <hi>Onnondage,</hi> to conſult of your own Affairs, only when <hi>Peace</hi> and <hi>War</hi> is treated of, I am obliged
+<pb n="30" facs="tcp:94942:17"/>
+to be preſent, and expect theſe Treaties ſhall be held at <hi>Albany,</hi> where the Covenant Chain had its firſt Birth.</p>
+                  <p>
+                     <hi>Brethren,</hi> That Peace which <hi>New-England</hi> ſome time a go made with the Eaſtérn Indians, did no wayes hurt the Covenant Chain, for theſe Indians were then in Peace with the five Nations.</p>
+                  <p>Theſe Indians have lately taken up the Hatchet again, and ſhed much Blood in that Province, who are Mem<g ref="char:EOLhyphen"/>bers of the Covenant Chain, you muſt therefore conſider of a way ſpeedily to ſnatch the Hatchet out of their hands, that all the Covenant Chain may enjoy Peace.</p>
+                  <p>
+                     <hi>Chavaleer Deaux</hi> was not (as you alledge) ſet at liberty by the People of <hi>New-England,</hi> but made his eſcape to <hi>Canada.</hi>
+                  </p>
+                  <p>I ſhall take care that the far <hi>Indians,</hi> to come with <hi>Arnout,</hi> be civilly treated, and have their Majeſties Protection.</p>
+                  <p>
+                     <hi>Brethren,</hi> You hàve<g ref="char:cmbAbbrStroke">̄</g> made a Peace which cannot laſt, if you ſuffer the <hi>French</hi> or any of their <hi>Indians</hi> to com<g ref="char:EOLhyphen"/>mit the leaſt Outrage or Act of Hoſtility againſt any of the Subjects of my great Maſter and Miſtriſs, the King and Queen of <hi>England,</hi> I muſt take up Arms for their Defence.</p>
+                  <p>
+                     <hi>I have a few words of Advice to give you.</hi>
+                  </p>
+                  <p>You are going to <hi>Canada,</hi> yoû muſt not truſt too many of your Sachims there, it is too great a ſtock to venture at once.</p>
+                  <p>
+                     <pb n="31" facs="tcp:94942:17"/>You muſt not, during their abſence, ſuffer your Young Men to depart from your Caſtles. Yon muſt not hearken to the Counſel of the Jeſuite <hi>Milet,</hi> nor ſuffer any of that Tribe to live amongſt you.</p>
+                  <p>And you muſt look out, and bé ſure give me timely Notice of the <hi>French</hi> approaching to rebuild <hi>Cada<g ref="char:EOLhyphen"/>racqui,</hi> or marching againſt any of their Majeſties Pro<g ref="char:EOLhyphen"/>vinces, that I may move with force to repel them.</p>
+                  <p>And now, <hi>Brethren,</hi> I do hereby renew the Covenant Chain, in the Names of their Majeſties of <hi>Great Britain,</hi> on behalf of their Subjects of <hi>New-Englaâd, Connecti<g ref="char:EOLhyphen"/>cut, New-York, Eaſt</hi> and <hi>Weſt-Jarſey, Pennſilvania, Maryland</hi> and <hi>Virginia,</hi> and all other their Majeſties Dominions on this Main of <hi>America;</hi> and I lay down this Belt of Wampum as a Seal.</p>
+                  <p>
+                     <hi>Brethren,</hi> You have declared me the Head of the Co<g ref="char:EOLhyphen"/>venant Chain; I do declare that I will inviolably defend and preſerve it, to the outmoſt drop of my Blood, while you on your parts perform your agreement. And in the Name of their Majeſties, the great King and Queen of <hi>England,</hi> and for their Majeſties Subjects of <hi>New-Eng<g ref="char:EOLhyphen"/>land, Connecticut, New-York, Eaſt</hi> and <hi>Weſt-Jarſey, Pennſilvania, Maryland</hi> and <hi>Virginia,</hi> lay down theſe Preſents.</p>
+               </sp>
+            </div>
+            <div type="session">
+               <pb n="32" facs="tcp:94942:18"/>
+               <head>The Addreſs of the River Indians, to his Excellency <hi>Benjamin Fletcher, &amp;c.</hi> at <hi>Albany, Auguſt</hi> the 18th, 1694.</head>
+               <list>
+                  <head>PRESENT</head>
+                  <item>His Excellency <hi>Benjamin Fletcher, &amp;c.</hi>
+                  </item>
+                  <item>Coll. <hi>Andrew Hamilton,</hi> Governour of <hi>Eaſt</hi> and <hi>Weſt-Jarſey.</hi>
+                  </item>
+                  <item>
+                     <list>
+                        <head>Of Their Majeſties Council for the Province of <hi>New-York.</hi>
+                        </head>
+                        <item>Coll. <hi>Stephen Cortland,</hi> 
+                        </item>
+                        <item>Coll. <hi>Nicholas Bayard,</hi>
+                        </item>
+                        <item>Coll <hi>William Smith,</hi>
+                        </item>
+                        <item>
+                           <hi>Chidley Brooke,</hi> 
+                           <abbr>Eſq</abbr>
+                        </item>
+                        <item>Major <hi>Peter Schuyler,</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>A Sachim Speaker.</item>
+               </list>
+               <sp>
+                  <p>
+                     <hi>Father,</hi>
+                  </p>
+                  <p>IN the time of Old, we River Indians were a ſtrong Nation, but are much decayed by the War, and are now become a weak mean People, as you ſee we are, in<g ref="char:EOLhyphen"/>ſomuch that we dare not ſhake Hand with your Excellency, Then gave two Beaver Skins.</p>
+                  <p>
+                     <hi>Father,</hi> We are come hither as your Children, accor<g ref="char:EOLhyphen"/>ding to our Duty; we have been Obedient to all your Commands, which Major <hi>Schuyler</hi> can witneſs, and
+<pb n="33" facs="tcp:94942:18"/>
+ſhall continue to be Obedient, and firm to the Govern<g ref="char:EOLhyphen"/>ment; We never have been ordered out upon occaſion of any incurſions of the Enemy, but we were always ready. Then gave ſome more Beaver.</p>
+               </sp>
+               <sp>
+                  <speaker>His Excellency Anſwered,</speaker>
+                  <p>I do accept of the Teſtimony of your Obedience kindly, as if your Preſents were a Thouſand times more: you ſhall not want the Protection of this Government, which ſhall be able to ſecure you from any force that can be brought againſt you. I ſhall, before I go, give ſome Teſtimony of that Reſpect my great Màſter and Miſtriſs, the King and Queen, bear to them that aré Obedient Subjects.</p>
+               </sp>
+            </div>
+            <div type="session">
+               <pb n="34" facs="tcp:94942:19"/>
+               <head>The Anſwer which his Excellency <hi>Benjamin Fletcher, &amp;c.</hi> gave to the River Indians at <hi>Albany, Auguſt</hi> the 22th, 1694.</head>
+               <list>
+                  <head>Preſent,</head>
+                  <item>His Excellency <hi>Benjamín Fletcher, &amp;c.</hi>
+                  </item>
+                  <item>Coll. <hi>Addrew Hamilton,</hi> Governour of the <hi>Jarſeys.</hi>
+                  </item>
+                  <item>
+                     <list>
+                        <head>Of Their Majeſties Council for the Province of <hi>New-York.</hi>
+                        </head>
+                        <item>Coll. <hi>Stephen Cortland,</hi> 
+                        </item>
+                        <item>Coll. <hi>Nicholas Bayard,</hi>
+                        </item>
+                        <item>Coll. <hi>William Smith,</hi>
+                        </item>
+                        <item>
+                           <hi>Chidley Brooke,</hi> 
+                           <abbr>Eſq</abbr>
+                        </item>
+                        <item>Major <hi>Peter Schuyler,</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>The River Indians,</item>
+               </list>
+               <sp>
+                  <speaker>His Excellency,</speaker>
+                  <p>I Am informed, that one of your People this laſt Winter was accidentally killed by the Slea of a Chriſtian, which drove over him upon the Ice unàwares. I give this bundle of Wampum to wipe off that Blood.</p>
+                  <p>
+                     <hi>Children,</hi> I have heard a good Character of you, that you have behaved your ſelves like obedient Children and good Subjects to the great King and Queen of <hi>England:</hi> I charge you to keep a good VVatch abroad, that you be able to advertiſe me of any approach of the Enemy;
+<pb n="35" facs="tcp:94942:19"/>
+and if you find any skulking Parties, you are to diſtroy them. And further, you are to obey ſuch Orders and Commands as you ſhall receive from time to time from the Commander in chief of this Garriſon of <hi>Albany,</hi> in my abſence.</p>
+                  <p>I hear, that when you go a hunting, before you come Home to your Caſtles, you ſlip aſide into <hi>New-England,</hi> ànd there get drunk, and ſquander away all what you have got, then come home poor to your Families, and become a burthen to your Neighbours, let me hear no more of this.</p>
+                  <p>I renew the Covenant Chain with you, and promiſe you all Protection from this Government, I hope you will behave your ſelves ſo as to deſerve it, and be good Souldiers, and keep firm to the Covenant Chain. And in the Name of their Majeſties of <hi>Great Britain,</hi> I lay down theſe Preſents.</p>
+               </sp>
+            </div>
+            <div type="session">
+               <pb n="36" facs="tcp:94942:20"/>
+               <head>A Conference had between his Excellency <hi>Benjamin Fltcher, &amp;c.</hi> and the <hi>Mahikanders</hi> or lower River Indians, and <hi>Showanno's</hi> or far Indians, at <hi>Kingſtone</hi> in the County of <hi>
+                     <g ref="char:V">Ʋ</g>lſter,</hi> the 28th of <hi>Auguſt,</hi> 1694.</head>
+               <list>
+                  <head>PRESENT</head>
+                  <item>His Excellency <hi>Benjamin Fletcher, &amp;c.</hi>
+                  </item>
+                  <item>Coll. <hi>Andrew Hamilton,</hi> Governour of <hi>Eaſt</hi> and <hi>Weſt-Jarſey.</hi>
+                  </item>
+                  <item>
+                     <list>
+                        <head>Of their Majeſties Council for the Province of <hi>New-York.</hi>
+                        </head>
+                        <item>Coll. <hi>Stephen Courtland,</hi> 
+                        </item>
+                        <item>Coll. <hi>Nicholas Bayard,</hi>
+                        </item>
+                        <item>Coll. <hi>William Smith,</hi>
+                        </item>
+                        <item>
+                           <hi>Chidley Brook,</hi> 
+                           <abbr>Eſq</abbr>
+                        </item>
+                        <item>
+                           <hi>William Nicoll,</hi> 
+                           <abbr>Eſq</abbr>
+                        </item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>Mahikanders</hi> and far Indians.</item>
+               </list>
+               <sp>
+                  <speaker>The Sachim of the <hi>Mahikinders</hi> Speaker.</speaker>
+                  <p>
+                     <hi>FATHER;</hi>
+                  </p>
+                  <p>YOU are Governour of this Province of <hi>New-York,</hi> ſome of your Chriſtian People, that undertook this tedious Journey with us, laſt Year, are killed by the way
+<pb n="37" facs="tcp:94942:20"/>
+by oûr Enemies, for which we are very ſorry; ſome alſo of the <hi>Mahikanders</hi> and far <hi>Indians</hi> are likewiſe killed. I now wipe off your Tears for thàt Blood. Then gave two or three Beavers.</p>
+                  <p>
+                     <hi>Father,</hi> We have had great ſorrow for the loſs of theſe Men which were killed, which is now wiped off. We have had great difficulty to bring the <hi>Showannoes</hi> and far Indians to ſee your Excellency, and deſire ſhelter under your Wings, which will wipe off all the ſorrow from us. We deſire your Protection. Then gave a few more Beaver.</p>
+                  <p>
+                     <hi>Father,</hi> We expected a great Hunting, but have got little more than Blows from an Enemy that purſued us, and with a ſmall ſhare of what we have got, we are come to renew the Covenant Chain of Peace with you, and deſire we may be as one Heart, one Blood and one Soul with the <hi>Engliſh,</hi> the <hi>Mohaques, River Indians,</hi> and all the Indians of this Government. Then gave a few more Beaver.</p>
+               </sp>
+               <sp>
+                  <speaker>His Excellency,</speaker>
+                  <p>
+                     <hi>Children,</hi> I am ſorrowful for the loſs of the <hi>Chriſtians</hi> and <hi>Indians</hi> of either Nation; you are as wellcome to me as Children to a Father. I ſhall alwayes protect you, while you behave your ſelvés well, and take you and the far Indians into the Covenant Chain, and be as tender of you as a Father of his Children.</p>
+                  <p>
+                     <pb n="38" facs="tcp:94942:21"/>
+                     <hi>Children,</hi> If you had come to me earlier, before I came from <hi>New-York</hi> or <hi>Albany,</hi> I had been better able to ſignifie my Affection to you, than now, I am upon my Return from my Journey, having diſpoſed of the Preſents I had provided for the preſent time. I give you this bundle of White Wampum as a Token that I receive you into the Covenant Chain, for the Province of <hi>New-York,</hi> and all their Majeſties Governments in <hi>America.</hi> And you muſt look upon all theſe as your Friends and Brethren.</p>
+                  <p>
+                     <hi>Children,</hi> I do not queſtion but you remember, that when you were laſt year at <hi>Albany,</hi> Major <hi>Schuyler</hi> was kind to you, and let you have things needful to fit you out for this Journey; I therefore expect, that now you will take care to re-pay him.</p>
+                  <p>
+                     <hi>Children,</hi> If hereafter you are ſet upon, or interrupt<g ref="char:EOLhyphen"/>ed in your Hunting, by any Enemy, ſo ſoon as you can give me notice of it, I ſhall be ready to come and aſſiſt you with Men and Arms, to repell àny Force that ſhall endeavour your hurt.</p>
+               </sp>
+               <sp>
+                  <speaker>The Sachim,</speaker>
+                  <p>
+                     <hi>Father,</hi> Being this time ſo harraſſed with an Enemy, in our Journey, we were interrupted from Hunting, we are not now able to pay Major <hi>Schuyler,</hi> but we
+<pb n="39" facs="tcp:94942:21"/>
+expect three hundred far Indians to follow, and come up quickly after us, and when they come, we intend to repày him honeſtly, for what he ſupplyed us.</p>
+               </sp>
+               <sp>
+                  <speaker>His Excellency,</speaker>
+                  <p>It is well, <hi>I</hi> will order ſome Preſents for you at <hi>Albany. I</hi> bid you Farewell.</p>
+               </sp>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
